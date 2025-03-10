@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fundamentos de Flexbox
 Este repositorio contiene una serie de ejemplos prácticos que ilustran los conceptos básicos de Flexbox en CSS. Cada archivo HTML aborda una propiedad específica de Flexbox, proporcionando una comprensión clara y concisa de su funcionamiento.
 
@@ -39,3 +40,6 @@ MDN Web Docs: Flexbox
 ## Autor
 
 Willans JUnes
+=======
+
+>>>>>>> 101cf2f460b76ea177e8ccfdb5751a88ddb8ce7f
