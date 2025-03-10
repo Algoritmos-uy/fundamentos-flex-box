@@ -1,7 +1,17 @@
+
+.content {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid black;
+    width: 800px;
+}
+
 .flex-container{
     display: flex;
     border: 2px solid black;
-    max-width: 300px;
+    width: 300px;
     margin-bottom: 20px;
     justify-content: center;
 
